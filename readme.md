@@ -1,0 +1,1 @@
+Pyqt5 interface to add, delete, check and modify txt files
